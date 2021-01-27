@@ -1,0 +1,30 @@
+.body {
+  background-color: antiquewhite;
+}
+
+.header {
+  background-color: rgb(60, 168, 187);
+  position: fixed;
+  right: 0;
+  left: 0;
+  height: 4vw;
+  text-align: left;
+  border-radius: 3px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+.Unl {
+  margin-top: 0.8vw;
+}
+
+.home {
+  text-align: left;
+  float: center;
+  top: 1vw;
+}
+
+.input {
+  top: 1vw;
+  float: right;
+}
